@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="www.linkedin.com/in/gowthamn1">LinkedIn</a></h3>
 <p align="left">
 </p>
 
